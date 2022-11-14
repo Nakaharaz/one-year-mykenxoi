@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Header />
     <Banner />
     <Features />
     <Video />

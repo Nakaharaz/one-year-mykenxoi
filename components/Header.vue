@@ -28,18 +28,8 @@
             <li class="scrollToLink">
               <a href="#screenshots">App Screenshots</a>
             </li>
-            <li class="scrollToLink">
-              <a href="#news">News</a>
-              <ul class="sub-menu">
-                <li><nuxt-link to="/blog">News Page</nuxt-link></li>
-                <li><nuxt-link to="/blog-details">News Details</nuxt-link></li>
-              </ul><!-- /.sub-menu -->
-            </li>
           </ul>
         </div><!-- /.navbar-collapse -->
-        <div class="right-side-box">
-          <a class="thm-btn header__cta-btn" href="#"><span>Login</span></a>
-        </div><!-- /.right-side-box -->
       </div>
       <!-- /.container -->
     </nav>
