@@ -2,17 +2,17 @@
   <section class="testimonials-one">
     <div class="container">
       <div class="block-title text-center">
-        <h2 class="block-title__title">What Our <span>Clients</span> Say <br> About Us.</h2><!-- /.block-title__title -->
+        <h2 class="block-title__title">Mensagens de <span>amor</span> que nossos amigos mandaram❤</h2><!-- /.block-title__title -->
       </div><!-- /.block-title -->
       <div class="testimonials-one__carousel-outer">
         <div class="testimonials-one__carousel owl-carousel owl-theme">
           <div class="item">
             <div class="testimonials-one__single">
               <div class="testimonials-one__inner">
-                <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                <h3>Shirley Smith</h3>
-                <span>Our Customers</span>
-                <img src="/assets/images/resources/testi-1-1.png" alt="Awesome Image" />
+                <p>Enzo sem Mykelly é como feijoada sem feijão, feijoada sem feijão não é feijoada 🌹❤️💋</p>
+                <h3>Odeig Ferraz</h3>
+                <span>Best do Enxoi</span>
+                <img src="/assets/images/testimonials/disa.webp" alt="Foto do Diego e Isa" />
               </div><!-- /.testimonials-one__inner -->
             </div><!-- /.testimonials-one__single -->
           </div><!-- /.item -->
@@ -20,19 +20,59 @@
             <div class="testimonials-one__single">
               <div class="testimonials-one__inner">
                 <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                <h3>Shirley Smith</h3>
-                <span>Our Customers</span>
-                <img src="/assets/images/resources/testi-1-1.png" alt="Awesome Image" />
+                <h3>Isinha drip</h3>
+                <span>Best da Myk</span>
+                <img src="/assets/images/testimonials/disa.webp" alt="Foto da isinha" />
               </div><!-- /.testimonials-one__inner -->
             </div><!-- /.testimonials-one__single -->
           </div><!-- /.item -->
           <div class="item">
             <div class="testimonials-one__single">
               <div class="testimonials-one__inner">
-                <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                <h3>Shirley Smith</h3>
-                <span>Our Customers</span>
-                <img src="/assets/images/resources/testi-1-1.png" alt="Awesome Image" />
+                <p>Acho bem tóxicos. <br> Brincadeira😻 <br> Fofinhos.</p>
+                <h3>Fernanda Bacaninha</h3>
+                <span>Best da Myk</span>
+                <img src="/assets/images/testimonials/niver-fer.webp" alt="Foto da Fernanda, Myk e Enxoi" />
+              </div><!-- /.testimonials-one__inner -->
+            </div><!-- /.testimonials-one__single -->
+          </div><!-- /.item -->
+          <div class="item">
+            <div class="testimonials-one__single">
+              <div class="testimonials-one__inner">
+                <p>Bem fofichos.</p>
+                <h3>Mafe</h3>
+                <span>Best da Myk</span>
+                <img src="/assets/images/testimonials/profile-mafe.jpg" alt="Foto da Mafe" />
+              </div><!-- /.testimonials-one__inner -->
+            </div><!-- /.testimonials-one__single -->
+          </div><!-- /.item -->
+          <div class="item">
+            <div class="testimonials-one__single">
+              <div class="testimonials-one__inner">
+                <p>Eu acho bonito a forma como vcs se esforçam pra estarem juntos, no sentido de esforço pra fazer dar certo e acho mt bonito tbm q vcs são a própria idealização de casal adolescente engraçado. Apoio muito vcs dois. Sei q existem problemas, mas vcs se entendem</p>
+                <h3>Sarolas</h3>
+                <span>Best do Enxoi</span>
+                <img src="/assets/images/testimonials/sarolas.jpeg" alt="Foto da Sarolas" />
+              </div><!-- /.testimonials-one__inner -->
+            </div><!-- /.testimonials-one__single -->
+          </div><!-- /.item -->
+          <div class="item">
+            <div class="testimonials-one__single">
+              <div class="testimonials-one__inner">
+                <p>Vei vcs são um casal tão fofos ,tão unidos ,tão criativos e com tanto amor um pro outros ,vcs passam confiança e espero ver vcs juntos pra sempre viu KSKS</p>
+                <h3>Lucinha</h3>
+                <span>Best da Myk</span>
+                <img src="/assets/images/testimonials/lucinha.jpeg" alt="Foto da Lucinha" />
+              </div><!-- /.testimonials-one__inner -->
+            </div><!-- /.testimonials-one__single -->
+          </div><!-- /.item -->
+          <div class="item">
+            <div class="testimonials-one__single">
+              <div class="testimonials-one__inner">
+                <p>Feliz 1 anoo Enzo e Mykelly, vcs merecem ser mto felizes juntos. vcs se completam e eu tenho certeza que ainda vão conquistar mais muitas coisas juntos. conta comigo pra sempre, eu apoio muito vcs :)</p>
+                <h3>Felipe</h3>
+                <span>Best da Myk</span>
+                <img src="/assets/images/testimonials/felipe-myk.jpeg" alt="Foto do Felipe" />
               </div><!-- /.testimonials-one__inner -->
             </div><!-- /.testimonials-one__single -->
           </div><!-- /.item -->

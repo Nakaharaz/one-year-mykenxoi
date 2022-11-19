@@ -6,9 +6,9 @@
       <div class="row justify-content-lg-end">
         <div class="col-lg-6">
           <div class="cta-one__content">
-            <i class="cta-one__icon dimon-icon-data1"></i>
+            <i class="fa-solid fa-heart"></i>
             <div class="block-title text-left">
-              <h2 class="block-title__title">Powerful <span>Tools</span> for Your Customers.</h2><!-- /.block-title__title -->
+              <h2 class="block-title__title">Meu amor, tenho <span>certeza</span> que fomos feitos um para o outro</h2><!-- /.block-title__title -->
             </div><!-- /.block-title -->
             <div class="cta-one__text">
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>

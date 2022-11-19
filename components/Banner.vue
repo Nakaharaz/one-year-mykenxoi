@@ -7,8 +7,8 @@
     <div class="container-sm">
       <div class="row">
         <div class="col"></div>
-        <div class="col-3 text-center">
-          <h1 class="banner-one__title" style="font-size: 70px; padding-top: 200px; margin-bottom: -150px;">Bem vindos à <br> Acho Bom Co. !</h1>
+        <div class="text-center">
+          <h1 class="titulo-principal">Bem vindos à <br> Acho Bom Co. !</h1>
         </div>
         <div class="col"></div>
       </div>
