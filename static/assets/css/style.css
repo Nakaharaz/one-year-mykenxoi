@@ -2507,9 +2507,10 @@ a:visited {
   left: -12%;
 }
 .cta-one__moc {
+  max-width: 500px;
+  border-radius: 30px;
   position: absolute;
   top: -45px;
-  left: -10%;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
           animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }
@@ -2566,7 +2567,10 @@ a:visited {
   position: relative;
 }
 .cta-two__moc {
+  max-width: 500px;
+  border-radius: 30px;
   position: absolute;
+  z-index: 50px;
   top: -40px;
   right: -35px;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;

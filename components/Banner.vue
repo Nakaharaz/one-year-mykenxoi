@@ -23,7 +23,7 @@
 
             <h3 class="banner-one__title">Venha comigo e conheça a linda história de <span> Mykelly & Enzo.</span></h3>
             <!-- /.banner-one__title -->
-            <p class="banner-one__text">Nos conhecemos por mensagem <br> no dia 19 de Setembro de 2021 <br> e desde
+            <p class="banner-one__text">Nos conhecemos por mensagem <br> no dia 19 de Setembro de 2021, atráves de um "Salve cria", que foi uma das melhores mensagens que já mandei, a melhor de todas foi falando que te amava❤, <br> e desde
               então, <span> juntos para sempre🌹</span></p>
             <!-- /.banner-one__text -->
           </div><!-- /.banner-one__content -->
